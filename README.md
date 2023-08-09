@@ -61,3 +61,11 @@ Open a PR if there's a solution with a better score.
     My Score:&nbsp;`159`
 
 ---
+
+8.  HTML Tags (optional)
+
+         /<[^>]*|[^<]*>/g
+
+    Substitution:&nbsp;&nbsp;` `
+
+    My Score:&nbsp;`13`
