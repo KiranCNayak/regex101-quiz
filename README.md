@@ -43,3 +43,13 @@ Open a PR if there's a solution with a better score.
     My Score:&nbsp;`11`
 
 ---
+
+6.  Broken Keyboard
+
+          /(.)\1{2}/g
+
+    Substitution:&nbsp;&nbsp;`$1`
+
+    My Score:&nbsp;`13`
+
+---
