@@ -53,3 +53,11 @@ Open a PR if there's a solution with a better score.
     My Score:&nbsp;`13`
 
 ---
+
+7.  Validate an IP
+
+         /^(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]\d|\d)\.(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]\d|\d)\.(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]\d|\d)\.(?:25[0-5]|2[0-4]\d|1\d\d|[1-9]\d|\d)$/g
+
+    My Score:&nbsp;`159`
+
+---
