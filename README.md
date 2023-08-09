@@ -2,10 +2,7 @@
 
 Open a PR if there's a solution with a better score.
 
-1.  Word Boundaries
+1. Word Boundaries
+   Regex:&nbsp;&nbsp;`/\bword\b/i`
 
-```
-/\bword\b/i
-```
-
-My Score:&nbsp;`11`
+   My Score:&nbsp;`11`
