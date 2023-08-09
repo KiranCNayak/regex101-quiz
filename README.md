@@ -25,3 +25,11 @@ Open a PR if there's a solution with a better score.
           /[B-DF-HJ-NP-TV-Z]/g
 
     My Score:&nbsp;`20`
+
+---
+
+4.  Retrieve Numbers
+
+          /\d+/g
+
+    My Score:&nbsp;`6`
