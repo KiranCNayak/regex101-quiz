@@ -17,3 +17,11 @@ Open a PR if there's a solution with a better score.
     Substitution:&nbsp;&nbsp;`I`
 
     My Score:&nbsp;`9`
+
+---
+
+3.  Uppercase Consonants
+
+          /[B-DF-HJ-NP-TV-Z]/g
+
+    My Score:&nbsp;`20`
