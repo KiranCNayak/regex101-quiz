@@ -33,3 +33,13 @@ Open a PR if there's a solution with a better score.
           /\d+/g
 
     My Score:&nbsp;`6`
+
+---
+
+5.  Whitespace
+
+          /[\s]{4,}/g
+
+    My Score:&nbsp;`11`
+
+---
